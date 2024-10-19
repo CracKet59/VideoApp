@@ -1,6 +1,6 @@
 package com.example.videoapp;
 
-public class VideoItem {
-    public string videoUrl, videoTitle, videoDescription;
 
+public class VideoItem {
+    public String videoURL, videoTitle, videoDescription, videoID;
 }
